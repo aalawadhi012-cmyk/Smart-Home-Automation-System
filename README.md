@@ -45,28 +45,24 @@ This project presents a Smart Home Automation System developed using Arduino Uno
 ## Project Gallery
 
 ### Smart Home Prototype
-![Prototype](Images/photo_5_2026-07-14_08-06-00.jpg)
+<h2>Project Gallery</h2>
 
-### Hardware Setup
-![Hardware](Images/photo_2_2026-07-14_08-30-25.jpg)
+<p align="center">
+  <img src="Images/photo_5_2026-07-14_08-06-00.jpg" width="30%">
+  <img src="Images/photo_2_2026-07-14_08-30-25.jpg" width="30%">
+  <img src="Images/photo_1_2026-07-14_08-06-00.jpg" width="30%">
+</p>
 
-### Development Process
-![Development](Images/photo_1_2026-07-14_08-06-00.jpg)
+<p align="center">
+  <img src="Images/photo_3_2026-07-14_08-06-00.jpg" width="30%">
+  <img src="Images/photo_1_2026-07-14_08-30-25.jpg" width="30%">
+  <img src="Images/photo_4_2026-07-14_08-06-00.jpg" width="30%">
+</p>
 
-### Mobile Dashboard
-![Mobile Dashboard](Images/photo_3_2026-07-14_08-06-00.jpg)
-
-### Smart Lighting Control
-![Lighting](Images/photo_1_2026-07-14_08-30-25.jpg)
-
-### Water Level Monitoring
-![Water Sensor](Images/photo_4_2026-07-14_08-06-00.jpg)
-
-### Project Exhibition
-![Exhibition](Images/photo_4_2026-07-14_08-30-25.jpg)
-
-### Project Presentation
-![Presentation](Images/photo_3_2026-07-14_08-30-25.jpg)
+<p align="center">
+  <img src="Images/photo_4_2026-07-14_08-30-25.jpg" width="30%">
+  <img src="Images/photo_3_2026-07-14_08-30-25.jpg" width="30%">
+</p>
 ## Project Presentation
 
 The Smart Home Automation System was presented at the University Internet of Things (IoT) Exhibition, where it was demonstrated to faculty members, visitors, and university leadership.
