@@ -61,7 +61,6 @@ This project presents a Smart Home Automation System developed using Arduino Uno
 
 <p align="center">
   <img src="Images/photo_4_2026-07-14_08-30-25.jpg" width="30%">
-  <img src="Images/photo_3_2026-07-14_08-30-25.jpg" width="30%">
 </p>
 ## Project Presentation
 
